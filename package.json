@@ -1,0 +1,25 @@
+{
+  "name": "galvanized-pukeko.github.io",
+  "version": "0.0.1",
+  "description": "galvanized-pukeko website",
+  "homepage": "https://github.com/Galvanized-Pukeko/galvanized-pukeko.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/Galvanized-Pukeko/galvanized-pukeko.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galvanized-Pukeko/galvanized-pukeko.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^7.3.0"
+  }
+}
